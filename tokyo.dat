@@ -2,9 +2,29 @@ Tokyo
 ---
 local_name:東京
 special_wards:
-- shinjuku
-- shinagawa
+- adachi
+- arakawa
+- bunkyo
+- chiyoda
+- chuo
+- edogawa
+- itabashi
+- katsushika
+- kita
+- koto
+- meguro
+- minato
+- nakano
+- nerima
+- ota
+- setagaya
 - shibuya
+- shinagawa
+- shinjuku
+- suginami
+- sumida
+- taito
+- toshima
 cities:
 towns:
 villages:
