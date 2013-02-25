@@ -1,3 +1,10 @@
 Tokyo
 ---
 local_name:東京
+special_wards:
+- shinjuku
+- shinagawa
+- shibuya
+cities:
+towns:
+villages:
