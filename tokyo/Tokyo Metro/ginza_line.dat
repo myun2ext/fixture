@@ -3,22 +3,22 @@ Tokyo Metro - Ginza Line
 official_name:The Tokyo Metro Ginza Line
 official_name_local:東京地下鉄銀座線
 stations:
-- G-01  Shibuya   渋谷 	- 	0.0 	Subway TokyoHanzomon.png Tokyo Metro Hanzo-mon Line (Z-01), Subway TokyoFukutoshin.png Tokyo Metro Fukutoshin Line (F-16)
-- G-02 	Omotesando- 	表参道 	1.3 	1.3 	Subway TokyoChiyoda.png Tokyo Metro Chiyoda Line (C-04), Subway TokyoHanzomon.png Tokyo Metro Hanzo-mon Line (Z-02)[* 1] 	Minato
-- G-03 	Gaiemmae 	外苑前 	0.7 	2.0 	 
-- G-04 	Aoyama-Itcho-me 	青山一丁目 	0.7 	2.7 	Subway TokyoHanzomon.png Tokyo Metro Hanzo-mon Line (Z-03)
-- G-05 	Akasaka-Mitsuke 	赤坂見附 	1.3 	4.0 	Subway TokyoMarunouchi.png Tokyo Metro Marunouchi Line (M-13), Subway TokyoYurakucho.png Tokyo Metro Yu-rakucho- Line (Nagatacho-: Y-16), Subway TokyoHanzomon.png Tokyo Metro Hanzo-mon Line (Nagatacho-: Z-04), Subway TokyoNamboku.png Tokyo Metro Namboku Line (Nagatacho-: N-07)
-- G-06 	Tameike-Sanno- 	溜池山王 	0.9 	4.9 	Subway TokyoNamboku.png Tokyo Metro Namboku Line (N-06), Subway TokyoMarunouchi.png Tokyo Metro Marunouchi Line (Kokkai-gijido-mae: M-14), Subway TokyoChiyoda.png Tokyo Metro Chiyoda Line (Kokkai-gijido-mae: C-07) 	Chiyoda
-- G-07 	Toranomon 	虎ノ門 	0.6 	5.5 	  	Minato
-- G-08 	Shimbashi 	新橋 	0.8 	6.3 	Subway TokyoAsakusa.png Toei Asakusa Line (A-10)
-- G-09 	Ginza 	銀座 	0.9 	7.2 	Subway TokyoHibiya.png Tokyo Metro Hibiya Line (H-08), Subway TokyoMarunouchi.png Tokyo Metro Marunouchi Line (M-16) 	Chu-o-
-- G-10 	Kyo-bashi 	京橋 	0.7 	7.9 	 
-- G-11 	Nihombashi 	日本橋 	0.7 	8.6 	Subway TokyoTozai.png Tokyo Metro To-zai Line (T-10)
-- G-12 	Mitsukoshimae 	三越前 	0.6 	9.2 	Subway TokyoHanzomon.png Tokyo Metro Hanzo-mon Line (Z-09)
-- G-13 	Kanda 	神田 	0.7 	9.9 	Chu-o- Line (Rapid), Keihin-To-hoku Line, Yamanote Line 	Chiyoda
-- G-14 	Suehirocho- 	末広町 	1.1 	11.0 	 
-- G-15 	Ueno-Hiroko-ji 	上野広小路 	0.6 	11.6 	Subway TokyoHibiya.png Tokyo Metro Hibiya Line (Naka-okachimachi: H-16)
-- G-16 	Ueno 	上野 	0.5 	12.1 	Subway TokyoHibiya.png Tokyo Metro Hibiya Line (H-17)
-- G-17 	Inaricho- 	稲荷町 	0.7 	12.8 	 
-- G-18 	Tawaramachi 	田原町 	0.7 	13.5 	 
-- G-19 	Asakusa 	浅草 	0.8 	14.3 	Subway TokyoAsakusa.png Toei Asakusa Line (A-18)
+- G-01  Shibuya	渋谷 	- 	0
+- G-02 	Omotesando- 	表参道 	1.3	1.3
+- G-03 	Gaiemmae 	外苑前 	0.7	2
+- G-04 	Aoyama-Itcho-me 	青山一丁目 	0.7	2.7
+- G-05 	Akasaka-Mitsuke 	赤坂見附 	1.3	4
+- G-06 	Tameike-Sanno- 	溜池山王 	0.9	4.9
+- G-07 	Toranomon 	虎ノ門 	0.6	5.5
+- G-08 	Shimbashi 	新橋 	0.8	6.3
+- G-09 	Ginza 	銀座 	0.9	7.2
+- G-10 	Kyo-bashi 	京橋 	0.7	7.9
+- G-11 	Nihombashi 	日本橋 	0.7	8.6
+- G-12 	Mitsukoshimae 	三越前 	0.6	9.2
+- G-13 	Kanda 	神田 	0.7	9.9
+- G-14 	Suehirocho- 	末広町 	1.1	11
+- G-15 	Ueno-Hiroko-ji 	上野広小路 	0.6	11.6
+- G-16 	Ueno 	上野 	0.5	12.1
+- G-17 	Inaricho- 	稲荷町 	0.7	12.8
+- G-18 	Tawaramachi 	田原町 	0.7	13.5
+- G-19 	Asakusa 	浅草 	0.8	14.3
