@@ -3,8 +3,12 @@ Tokyo Metro
 official_name:Tokyo Metro Co., Ltd.
 official_name_local:東京地下鉄株式会社
 lines:
-- Ginza
-- Marunouchi
-- Chiyoda
-- Yurakucho
-- Hanzomon
+- Ginza Line
+- Marunouchi Line
+- Hibiya Line
+- Tozai Line
+- Chiyoda Line
+- Yurakucho Line
+- Hanzomon Line
+- Namboku Line
+- Fukutoshin Line
