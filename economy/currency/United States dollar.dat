@@ -1,4 +1,14 @@
 United States dollar
 ----
 sign: $
-currency code: USD
+currency_code: USD
+other_name:
+- US$
+- U.S. dollar
+- American dollar
+
+official_user:
+- United States
+- El Salvador
+- Panama
+- Ecuador
