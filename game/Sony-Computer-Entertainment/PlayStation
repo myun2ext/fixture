@@ -11,3 +11,5 @@ CPU:
   clock: 33.8688 MHz
 graphics:
   Resolution: 256 × 224 (minimum), 640 × 480 (maximum)
+  color depth: 24bit
+  VRAM: 1MB
