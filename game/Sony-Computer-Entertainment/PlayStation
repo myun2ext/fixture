@@ -3,3 +3,11 @@ Introduced:
   NA September 9, 1995
   EU September 29, 1995
   AUS November 15, 1995
+===
+Hardware Spec
+
+CPU:
+  model: R3051
+  clock: 33.8688 MHz
+graphics:
+  Resolution: 256 × 224 (minimum), 640 × 480 (maximum)
