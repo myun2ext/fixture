@@ -1,0 +1,11 @@
+Released: November 11, 2006
+
+Hardware Spec
+CPU:
+  Cell Broadband Engine
+  - one PPE
+  - 8 SPE
+    one unit invalid, and one unit OS used (Application usable 6 units).
+  clock: 3.2 GHz
+GPU:
+  RSX 'Reality Synthesizer'
