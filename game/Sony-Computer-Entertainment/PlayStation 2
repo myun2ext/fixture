@@ -1,0 +1,15 @@
+released:
+  Japan: March 4, 2000
+  North America: October 25, 2000
+  Europe: November 24, 2000
+
+
+Hardware Spec
+CPU:
+  Emotion Engine
+  clock: 294.912 MHz (299 MHz on newer versions)
+GPU:
+  Graphics Synthesizer
+  clock: 147.456MHz
+Memory:
+  32MB RDRAM
