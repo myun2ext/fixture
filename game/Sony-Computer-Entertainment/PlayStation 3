@@ -9,3 +9,12 @@ CPU:
   clock: 3.2 GHz
 GPU:
   RSX 'Reality Synthesizer'
+  clock:  550 MHz
+Memory:
+  type: XDR DRAM
+  capacity: 256MB
+  clock: 3.2 GHz
+VRAM:
+  type: GDDR3 RAM
+  capacity: 256 MB
+  clock: 700 MHz
