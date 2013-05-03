@@ -20,3 +20,6 @@ VRAM:
   capacity: 256 MB
   clock: 700 MHz
   bus speed: 22.4GB/s
+Graphics:
+  resoulutions: 480i, 480p, 720p, 1080i, 1080p
+Ethernet: 1000BASE-T
