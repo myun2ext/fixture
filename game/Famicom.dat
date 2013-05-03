@@ -4,7 +4,7 @@ model: HVC-001
 price: 14,800 Yen
 
 =====
-Spec
+Hardware Spec
 cpu:
   RP2A03
   clock: 1.79 MHz
