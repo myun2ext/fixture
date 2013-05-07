@@ -1,0 +1,25 @@
+Released: November 11, 2006
+
+Hardware Spec
+CPU:
+  Cell Broadband Engine
+  - one PPE
+  - 8 SPE
+    one unit invalid, and one unit OS used (Application usable 6 units).
+  clock: 3.2 GHz
+GPU:
+  RSX 'Reality Synthesizer'
+  clock:  550 MHz
+Memory:
+  type: XDR DRAM
+  capacity: 256MB
+  clock: 3.2 GHz
+  bus speed: 25.6GB/s
+VRAM:
+  type: GDDR3 RAM
+  capacity: 256 MB
+  clock: 700 MHz
+  bus speed: 22.4GB/s
+Graphics:
+  resoulutions: 480i, 480p, 720p, 1080i, 1080p
+Ethernet: 1000BASE-T

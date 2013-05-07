@@ -1,0 +1,22 @@
+f
+
+model: HVC-001
+price: 14,800 Yen
+
+=====
+Hardware Spec
+cpu:
+  RP2A03
+  clock: 1.79 MHz
+video processor: RP2C02
+ram:
+  capacity: 2K Bytes
+  type: 16kbit SRAM
+video ram:
+  capacity: 2K Bytes
+  type: 16kbit SRAM
+graphic spec:
+  resolution: 256 × 240
+  color:
+    colors: 56 colors
+    simultaneously: 25 colors
